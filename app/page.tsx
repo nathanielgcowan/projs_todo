@@ -1,13 +1,18 @@
 'use client'
 import React, { useState } from "react";
 import Datas from '../components/Arrays';
+// import Graph from 'react-graph-vis';
+import GraphView from "@/components/graph";
+import WorldCup from "@/components/worldcup";
 
 export default function App() {
   const [array, setArray] = useState(Datas)
-  console.log(Datas)
+  
   return (
     <>
-    {array.map((e, i) => {
+      <WorldCup />
+      {/* <GraphView /> */}
+    {/* {array.map((e, i) => {
       return (
         <div key={i}>
           {e.nation}
@@ -184,7 +189,7 @@ export default function App() {
           })}
         </div>
       );
-    })}
+    })} */}
   </>
   );
 }

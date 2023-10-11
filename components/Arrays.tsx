@@ -891,7 +891,7 @@ const Datas = [
                   totalarea: 176,
                   landarea: 158,
                   waterarea: 18,
-                  numberofreps: 1
+                  numberofreps: 1,
                   electoralVotes: 3,
                   hornvm: 1
                 }
