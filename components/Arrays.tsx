@@ -108,7 +108,10 @@ const Datas = [
                   totalarea: 135767,
                   landarea: 131171,
                   waterarea:4597,
-                  numberOfReps: 7
+                  numberOfReps: 7,
+                  electoralVotes: 9,
+                  senators: 2,
+                  hor: 7
                 },
                 {
                   name: "Alaska",
@@ -121,8 +124,10 @@ const Datas = [
                   landarea: 1477953,
                   waterarea: 245384,
                   numberOfReps: 1,
-                  numberofcountyequivalents: 29
-
+                  numberofcountyequivalents: 29,
+                  electoralVotes: 3,
+                  senators: 2,
+                  hor: 1
                 },
                 {
                   name: "Arizona",
@@ -135,7 +140,10 @@ const Datas = [
                   landarea: 294207,
                   waterarea: 1026,
                   numberOfReps: 9,
-                  numberofcountyequivalents: 15
+                  numberofcountyequivalents: 15,
+                  electoralVotes: 11,
+                  senators: 2,
+                  hor: 9
                 },
                 {
                   name: "Arkansas",
@@ -148,7 +156,10 @@ const Datas = [
                   landarea: 134771,
                   waterarea: 2961,
                   numberOfReps: 4,
-                  numberofcountyequivalents: 75
+                  numberofcountyequivalents: 75,
+                  electoralVotes: 6,
+                  senators: 2,
+                  hor:4
                 },
                 {
                   name: "California",
@@ -161,7 +172,10 @@ const Datas = [
                   landarea: 403466,
                   waterarea: 20501,
                   numberOfReps: 52,
-                  numberofcountyequivalents: 58
+                  numberofcountyequivalents: 58,
+                  electoralVotes: 54,
+                  senators: 2,
+                  hor: 52
                 },
                 {
                   name: "Colorado",
@@ -174,7 +188,10 @@ const Datas = [
                   landarea: 268431,
                   waterarea: 1170,
                   numberOfReps: 8,
-                  numberofcountyequivalents: 64
+                  numberofcountyequivalents: 64,
+                  electoralVotes: 10,
+                  senators: 2,
+                  hor: 8
                 },
                 {
                   name: "Delaware",
@@ -187,7 +204,10 @@ const Datas = [
                   landarea: 5047,
                   waterarea: 1399,
                   numberOfReps: 1,
-                  numberofcountyequivalents:3
+                  numberofcountyequivalents:3,
+                  electoralVotes: 3,
+                  senators: 2,
+                  hor: 1
                 },
                 {
                   name: "Florida",
@@ -200,7 +220,10 @@ const Datas = [
                   landarea: 138887,
                   waterarea: 31424,
                   numberOfReps: 28,
-                  numberofcountyequivalents: 67
+                  numberofcountyequivalents: 67,
+                  electoralVotes: 30,
+                  senators: 2,
+                  hor: 28
                 },
                 {
                   name: "Georgia",
@@ -213,7 +236,10 @@ const Datas = [
                   landarea: 148959,
                   waterarea: 4951,
                   numberOfReps: 14,
-                  numberofcountyequivalents: 159
+                  numberofcountyequivalents: 159,
+                  electoralVotes: 16,
+                  senators: 2,
+                  hor: 14
                 },
                 {
                   name: "Hawaii",
@@ -226,7 +252,10 @@ const Datas = [
                   landarea: 16635,
                   waterarea: 11678,
                   numberOfReps: 2,
-                  numberofcountyequivalents: 5
+                  numberofcountyequivalents: 5,
+                  electoralVotes: 4,
+                  senators: 2,
+                  hor: 2
                 },
                 {
                   name: "Idaho",
@@ -239,7 +268,10 @@ const Datas = [
                   landarea: 214045,
                   waterarea: 2398,
                   numberOfReps: 2,
-                  numberofcountyequivalents: 44
+                  numberofcountyequivalents: 44,
+                  electoralVotes: 4,
+                  senators: 2,
+                  hor: 2
                 },
                 {
                   name: "Illinois",
@@ -252,7 +284,10 @@ const Datas = [
                   landarea: 143793,
                   waterarea: 6202,
                   numberOfReps: 17,
-                  numberofcountyequivalents: 102
+                  numberofcountyequivalents: 102,
+                  electoralVotes: 19,
+                  senators: 2,
+                  hor: 17
                 },
                 {
                   name: "Indiana",
@@ -265,7 +300,10 @@ const Datas = [
                   landarea: 92789,
                   waterarea: 1537,
                   numberOfReps: 9,
-                  numberofcountyequivalents: 92
+                  numberofcountyequivalents: 92,
+                  electoralVotes: 11,
+                  senators: 2,
+                  hor: 9
                 },
                 {
                   name: "Iowa",
@@ -278,7 +316,10 @@ const Datas = [
                   landarea: 144669,
                   waterarea: 1077,
                   numberOfReps: 4,
-                  numberofcountyequivalents: 99
+                  numberofcountyequivalents: 99,
+                  electoralVotes: 6,
+                  senators: 2,
+                  hor: 4
                 },
                 {
                   name: "Kansas",
@@ -291,7 +332,10 @@ const Datas = [
                   landarea: 211754,
                   waterarea: 1346,
                   numberOfReps: 4,
-                  numberofcountyequivalents: 105
+                  numberofcountyequivalents: 105,
+                  electoralVotes: 6,
+                  senators: 2,
+                  hor: 4
                 },
                 {
                   name: "Kentucky",
@@ -304,7 +348,10 @@ const Datas = [
                   landarea: 102269,
                   waterarea: 2387,
                   numberOfReps: 6,
-                  numberofcountyequivalents: 120
+                  numberofcountyequivalents: 120,
+                  electoralVotes: 8,
+                  senators: 2,
+                  hor: 6
                 },
                 {
                   name: "Loisiana",
@@ -317,7 +364,10 @@ const Datas = [
                   landarea: 111898,
                   waterarea: 23761,
                   numberOfReps: 6,
-                  numberofcountyequivalents: 64
+                  numberofcountyequivalents: 64,
+                  electoralVotes: 8,
+                  senators: 2,
+                  hor: 6
                 },
                 {
                   name: "Maine",
@@ -330,7 +380,10 @@ const Datas = [
                   landarea: 79883,
                   waterarea: 11750,
                   numberOfReps: 2,
-                  numberofcountyequivalents: 16
+                  numberofcountyequivalents: 16,
+                  electoralVotes: 4,
+                  senators: 2,
+                  hor: 2
                 },
                 {
                   name: "Maryland",
@@ -343,7 +396,10 @@ const Datas = [
                   landarea: 25142,
                   waterarea: 6990,
                   numberOfReps: 8,
-                  numberofcountyequivalents: 23
+                  numberofcountyequivalents: 23,
+                  electoralVotes: 10,
+                  senators: 2,
+                  hor: 8
                 },
                 {
                   name: "Massachusetts",
@@ -356,7 +412,10 @@ const Datas = [
                   landarea: 20202,
                   waterarea: 7134,
                   numberOfReps: 9,
-                  numberofcountyequivalents: 14
+                  numberofcountyequivalents: 14,
+                  electoralVotes: 11,
+                  senators: 2,
+                  hor: 9
                 },
                 {
                   name: "Michigan",
@@ -369,7 +428,10 @@ const Datas = [
                   landarea: 146435,
                   waterarea: 104052,
                   numberOfReps: 13,
-                  numberofcountyequivalents: 83
+                  numberofcountyequivalents: 83,
+                  electoralVotes: 15,
+                  senators: 2,
+                  hor: 13
                 },
                 {
                   name: "Minnesota",
@@ -382,7 +444,10 @@ const Datas = [
                   landarea: 206232,
                   waterarea: 18930,
                   numberOfReps: 8,
-                  numberofcountyequivalents: 87
+                  numberofcountyequivalents: 87,
+                  electoralVotes: 10,
+                  senators: 2,
+                  hor: 8
                 },
                 {
                   name: "Mississippi",
@@ -395,7 +460,10 @@ const Datas = [
                   landarea: 121531,
                   waterarea: 3907,
                   numberOfReps: 4,
-                  numberofcountyequivalents: 82
+                  numberofcountyequivalents: 82,
+                  electoralVotes: 6,
+                  senators: 2,
+                  hor: 4
                 },
                 {
                   name: "Missouri",
@@ -408,7 +476,10 @@ const Datas = [
                   landarea: 178040,
                   waterarea: 2501,
                   numberOfReps: 8,
-                  numberofcountyequivalents: 114
+                  numberofcountyequivalents: 114,
+                  electoralVotes: 10,
+                  senators: 2,
+                  hor: 8
                 },
                 {
                   name: "Montana",
@@ -421,7 +492,10 @@ const Datas = [
                   landarea: 376962,
                   waterarea: 3869,
                   numberOfReps: 2,
-                  numberofcountyequivalents: 56
+                  numberofcountyequivalents: 56,
+                  electoralVotes: 10,
+                  senators: 2,
+                  hor: 2
                 },
                 {
                   name: "Nebraska",
@@ -434,7 +508,10 @@ const Datas = [
                   landarea: 198974,
                   waterarea: 1356,
                   numberOfReps: 3,
-                  numberofcountyequivalents: 93
+                  numberofcountyequivalents: 93,
+                  electoralVotes: 5,
+                  senators: 2,
+                  hor: 3
                 },
                 {
                   name: "Nevada",
@@ -447,7 +524,10 @@ const Datas = [
                   landarea: 284332,
                   waterarea: 2048,
                   numberOfReps: 4,
-                  numberofcountyequivalents: 16
+                  numberofcountyequivalents: 16,
+                  electoralVotes: 6,
+                  senators: 2,
+                  hor: 4
                 },
                 {
                   name: "New Hampshire",
@@ -460,7 +540,10 @@ const Datas = [
                   landarea: 23187,
                   waterarea: 1027,
                   numberOfReps: 2,
-                  numberofcountyequivalents: 10
+                  numberofcountyequivalents: 10,
+                  electoralVotes: 4,
+                  senators: 2,
+                  hor: 2
                 },
                 {
                   name: "New Jersey",
@@ -473,7 +556,10 @@ const Datas = [
                   landarea: 0,
                   waterarea: 0,
                   numberOfReps: 0,
-                  numberofcountyequivalents: 10
+                  numberofcountyequivalents: 10,
+                  electoralVotes: 14,
+                  senators: 2,
+                  hor: 12
                 },
                 {
                   name: "New Mexico",
@@ -486,7 +572,10 @@ const Datas = [
                   landarea: 314161,
                   waterarea: 757,
                   numberOfReps: 3,
-                  numberofcountyequivalents: 33
+                  numberofcountyequivalents: 33,
+                  electoralVotes: 5,
+                  senators: 2,
+                  hor: 3
                 },
                 {
                   name: "New York",
@@ -499,7 +588,10 @@ const Datas = [
                   landarea: 122057,
                   waterarea: 19240,
                   numberOfReps: 26,
-                  numberofcountyequivalents: 62
+                  numberofcountyequivalents: 62,
+                  electoralVotes: 28,
+                  senators: 2,
+                  hor: 26
                 },
                 {
                   name: "North Carolina",
@@ -512,7 +604,10 @@ const Datas = [
                   landarea: 125920,
                   waterarea: 13471,
                   numberOfReps: 14,
-                  numberofcountyequivalents: 100
+                  numberofcountyequivalents: 100,
+                  electoralVotes: 16,
+                  senators: 2,
+                  hor: 14
                 },
                 {
                   name: "North Dakota",
@@ -525,7 +620,10 @@ const Datas = [
                   landarea: 178711,
                   waterarea: 4397,
                   numberOfReps: 1,
-                  numberofcountyequivalents: 53
+                  numberofcountyequivalents: 53,
+                  electoralVotes: 3,
+                  senators: 2,
+                  hor: 1
                 },
                 {
                   name: "Ohio",
@@ -538,7 +636,10 @@ const Datas = [
                   landarea: 105829,
                   waterarea: 10269,
                   numberOfReps: 15,
-                  numberofcountyequivalents: 88
+                  numberofcountyequivalents: 88,
+                  electoralVotes: 17,
+                  senators: 2,
+                  hor: 15
                 },
                 {
                   name: "Oklahoma",
@@ -551,7 +652,10 @@ const Datas = [
                   landarea: 177660,
                   waterarea: 3377,
                   numberOfReps: 5,
-                  numberofcountyequivalents: 77
+                  numberofcountyequivalents: 77,
+                  electoralVotes: 7,
+                  senators: 2,
+                  hor: 5
                 },
                 {
                   name: "Oregon",
@@ -564,7 +668,10 @@ const Datas = [
                   landarea: 248608,
                   waterarea: 6191,
                   numberOfReps: 6,
-                  numberofcountyequivalents: 36
+                  numberofcountyequivalents: 36,
+                  electoralVotes: 8,
+                  senators: 2,
+                  hor: 6
                 },
                 {
                   name: "Pennsylvania",
@@ -577,7 +684,10 @@ const Datas = [
                   landarea: 115883,
                   waterarea: 3397,
                   numberOfReps: 17,
-                  numberofcountyequivalents: 67
+                  numberofcountyequivalents: 67,
+                  electoralVotes: 19,
+                  senators: 2,
+                  hor: 17
                 },
                 {
                   name: "Rhode Island",
@@ -590,7 +700,10 @@ const Datas = [
                   landarea: 2678,
                   waterarea: 1324,
                   numberOfReps: 2,
-                  numberofcountyequivalents: 5
+                  numberofcountyequivalents: 5,
+                  electoralVotes: 4,
+                  senators: 2,
+                  hor: 2
                 },
                 {
                   name: "South Carolina",
@@ -603,7 +716,10 @@ const Datas = [
                   landarea: 77857,
                   waterarea: 5076,
                   numberOfReps: 7,
-                  numberofcountyequivalents: 46
+                  numberofcountyequivalents: 46,
+                  electoralVotes: 9,
+                  senators: 2,
+                  hor: 7
                 },
                 {
                   name: "South Dakota",
@@ -616,7 +732,10 @@ const Datas = [
                   landarea: 196350,
                   waterarea: 3379,
                   numberOfReps: 1,
-                  numberofcountyequivalents: 66
+                  numberofcountyequivalents: 66,
+                  electoralVotes: 3,
+                  senators: 2,
+                  hor: 1
                 },
                 {
                   name: "Tennessee",
@@ -629,7 +748,10 @@ const Datas = [
                   landarea: 106798,
                   waterarea: 2355,
                   numberOfReps: 9,
-                  numberofcountyequivalents: 95
+                  numberofcountyequivalents: 95,
+                  electoralVotes: 11,
+                  senators: 2,
+                  hor: 9
                 },
                 {
                   name: "Texas",
@@ -642,7 +764,10 @@ const Datas = [
                   landarea: 676587,
                   waterarea: 19075,
                   numberOfReps: 38,
-                  numberofcountyequivalents: 254
+                  numberofcountyequivalents: 254,
+                  electoralVotes: 40,
+                  senators: 2,
+                  hor: 38
                 },
                 {
                   name: "Utah",
@@ -655,7 +780,10 @@ const Datas = [
                   landarea: 212818,
                   waterarea: 7064,
                   numberOfReps: 4,
-                  numberofcountyequivalents: 29
+                  numberofcountyequivalents: 29,
+                  electoralVotes: 6,
+                  senators: 2,
+                  hor: 4
                 },
                 {
                   name: "Vermont",
@@ -668,7 +796,10 @@ const Datas = [
                   landarea: 23871,
                   waterarea: 1035,
                   numberOfReps: 1,
-                  numberofcountyequivalents: 14
+                  numberofcountyequivalents: 14,
+                  electoralVotes: 3,
+                  senators: 2,
+                  hor: 1
                 },
                 {
                   name: "Virginia",
@@ -681,7 +812,10 @@ const Datas = [
                   landarea: 102279,
                   waterarea: 8508,
                   numberOfReps: 11,
-                  numberofcountyequivalents: 95
+                  numberofcountyequivalents: 95,
+                  electoralVotes: 13,
+                  senators: 2,
+                  hor: 11
                 },
                 {
                   name: "Washington",
@@ -694,7 +828,10 @@ const Datas = [
                   landarea: 172119,
                   waterarea: 12542,
                   numberOfReps: 10,
-                  numberofcountyequivalents: 39
+                  numberofcountyequivalents: 39,
+                  electoralVotes: 12,
+                  senators: 2,
+                  hor: 10
                 },
                 {
                   name: "West Virginia",
@@ -707,7 +844,10 @@ const Datas = [
                   landarea: 62259,
                   waterarea: 497,
                   numberOfReps: 2,
-                  numberofcountyequivalents: 55
+                  numberofcountyequivalents: 55,
+                  electoralVotes: 4,
+                  senators: 2,
+                  hor: 2
                 },
                 {
                   name: "Wisconsin",
@@ -720,7 +860,10 @@ const Datas = [
                   landarea: 140268,
                   waterarea: 29367,
                   numberOfReps: 8,
-                  numberofcountyequivalents: 72
+                  numberofcountyequivalents: 72,
+                  electoralVotes: 10,
+                  senators: 2,
+                  hor: 8
                 },
                 {
                   name: 'Wyoming',
@@ -733,7 +876,10 @@ const Datas = [
                   landarea: 251470,
                   waterarea: 1864,
                   numberOfReps: 1,
-                  numberofcountyequivalents: 23
+                  numberofcountyequivalents: 23,
+                  electoralVotes: 3,
+                  senators: 2,
+                  hor: 1
                 }, 
               ],
               district: [
@@ -746,6 +892,8 @@ const Datas = [
                   landarea: 158,
                   waterarea: 18,
                   numberofreps: 1
+                  electoralVotes: 3,
+                  hornvm: 1
                 }
               ],
               territory: [
@@ -759,7 +907,8 @@ const Datas = [
                   totalarea: 1505,
                   landarea: 198,
                   waterarea: 1307,
-                  numberofreps: 1
+                  numberofreps: 1,
+                  hornvm: 1
                 },
                 {
                   name: 'Guam',
@@ -771,7 +920,8 @@ const Datas = [
                   totalarea: 1478,
                   landarea: 543,
                   waterarea: 935,
-                  numberofreps: 1
+                  numberofreps: 1,
+                  hornvm: 1
                 },
                 {
                   name: 'Northern Mariana Islands',
@@ -783,7 +933,8 @@ const Datas = [
                   totalarea: 5117,
                   landarea: 472,
                   waterarea: 4644,
-                  numberofreps: 1
+                  numberofreps: 1,
+                  hornvm: 1
                 },
                 {
                   name: 'Puerto Rico',
@@ -795,7 +946,8 @@ const Datas = [
                   totalarea: 13791,
                   landarea: 8868,
                   waterarea: 4924,
-                  numberofreps: 1
+                  numberofreps: 1,
+                  hornvm: 1
                 },
                 {
                   name: 'U.S. Virgin Islands',
@@ -807,7 +959,8 @@ const Datas = [
                   totalarea: 1898,
                   landarea: 348,
                   waterarea: 1550,
-                  numberofreps: 1
+                  numberofreps: 1,
+                  hornvm: 1
                 }
               ],
               uninhabitedterritories: [
@@ -1466,7 +1619,19 @@ const Datas = [
             'Management of companies and enterprises', 'Administrative and support and waste management and remediation service',
             'Educational services', 'Health care and social assistance', 'arts, entertainment, and recreation', 'accommodation and food services',
             'other services (except public administration)']
-        }]
+        }],
+        economy: [
+            {year: 1980,
+                gdpib: 2857.3,
+                gdppc: 12552.9,
+                gdpibnom: 2857.3,
+                gdppcibnom: 12552.9,
+                 },
+            {year: 1981 },
+            {year: 1982 },
+            {year: 1983 },
+            {year: 1984 },
+        ]
     },
   ]
 
