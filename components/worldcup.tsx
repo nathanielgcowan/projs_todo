@@ -5,7 +5,7 @@ import Graph from 'react-graph-vis';
 
 export default function WorldCup() {
 
-    var options = {
+    let options = {
         nodes:{
             shape: "dot",
             scaling: {
@@ -20,7 +20,8 @@ export default function WorldCup() {
             },
             font: {
                 size: 12,
-                face: "Tahoma"
+                face: "Tahoma",
+                color: "white"
             }
         },
         edges: {
@@ -40,7 +41,7 @@ export default function WorldCup() {
         height: "900px"
     }
 
-    var data = {nodes: nodes, edges: edges}
+    let data = {nodes: nodes, edges: edges}
   return (
     <div className='container'>
         <Graph

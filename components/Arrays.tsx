@@ -1,5 +1,5 @@
 'use client'
-
+import nodes from '../components/data'
 import React from 'react';
 
 const Datas = [
