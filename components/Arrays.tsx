@@ -41,8 +41,8 @@ const Datas = [
           ],
           religion: [{
             christianity: [{
-              Protestantism: 40,
-              Catholicism: 21,
+              protestantism: 40,
+              catholicism: 21,
               other: 2
             }],
             unaffiliated: 29,
@@ -53,8 +53,8 @@ const Datas = [
             other: 2,
             unanswered: 2
           }],
-          timeZone: [{
-            timeZone: "	UTC−4 to −12, +10, +11",
+          timezone: [{
+            timezone: "	UTC−4 to −12, +10, +11",
             summer: "UTC−4 to −10[g]"
           }],
           independencefromGreatBritain: [{
@@ -62,7 +62,7 @@ const Datas = [
             confederation: 'March 1, 1781',
             recognized: 'September 3, 1783',
             constitution: 'June 21, 1788',
-            lastAmendment: 'May 5, 1992'
+            lastamendment: 'May 5, 1992'
           }],
           area: [{
             totalarea: 379674,
@@ -71,13 +71,13 @@ const Datas = [
           }],
           pop: [{
             twentytwoestimate: 333287557,
-            twentyCensus: 331449281,
+            twentycensus: 331449281,
             density: "87/sq mi"
           }],
           gdp: [{
             year: 2023,
             total: "$26.949 trillion",
-            perCapita: "$80412"
+            percapita: "$80412"
           }],
           legislature: [{
             congress: 'Congress',
@@ -459,7 +459,7 @@ const Datas = [
                   totalarea: 24214,
                   landarea: 23187,
                   waterarea: 1027,
-                  numberOfReps: 2
+                  numberOfReps: 2,
                   numberofcountyequivalents: 10
                 },
                 {
@@ -1457,7 +1457,15 @@ const Datas = [
                 },
               ]
             }
-          ]
+          ],
+          economysystems: ['Traditional', 'Command', 'Centrally Planned', 'Market', 'Mixed'],
+          economicsector: [
+            'Mining', 'Utilities', 'Construction', 'Manufacturing', 'Wholesale trade',
+            'Retail trade', 'Transportation and warehousing', 'Information', 'Finance and insurance',
+            'Real estate and rental and leasing', 'Professional, scientific, and technical services',
+            'Management of companies and enterprises', 'Administrative and support and waste management and remediation service',
+            'Educational services', 'Health care and social assistance', 'arts, entertainment, and recreation', 'accommodation and food services',
+            'other services (except public administration)']
         }]
     },
   ]

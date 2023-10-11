@@ -40,29 +40,54 @@ export default function App() {
                 {e.callingcode}
                 {e.iso3166code}
                 {e.internettld}
-                {e.ethnicgroups.map((e,i) => {
+                {e.origin.map((e,i) => {
                   return (
                     <div key={i}> 
-                    {e.white}
-                    {e.black},
-                    {e.asian},
-                    {e.nativeamerican},
-                    {e.pacificislander},
-                    {e.twoormoreraces},
-                    {e.other}
+                      {e.nonHispanicOrLatino},
+                      {e.hispanicOrLatino}
                     </div>
                   )
                 })}
                 {e.ethnicgroups.map((e,i) => {
                   return (
                     <div key={i}> 
-                    {e.white}
-                    {e.black},
-                    {e.asian},
-                    {e.nativeamerican},
-                    {e.pacificislander},
-                    {e.twoormoreraces},
-                    {e.other}
+                      {e.white},
+                      {e.black},
+                      {e.asian},
+                      {e.nativeamerican},
+                      {e.pacificislander},
+                      {e.twoormoreraces},
+                      {e.other}
+                    </div>
+                  )
+                })}
+                {e.religion.map((e,i) => {
+                  return (
+                    <div key={i}> 
+                      {e.christianity.map((e,i) => {
+                        return (
+                          <div key={i}>
+                            {e.protestantism}
+                            {e.catholicism}
+                            {e.other}
+                          </div>
+                        )
+                      })},
+                      {e.unaffiliated}
+                      {e.buddhism}
+                      {e.hinduism}
+                      {e.islam}
+                      {e.judaism}
+                      {e.other}
+                      {e.unanswered}
+                    </div>
+                  )
+                })}
+                {e.timezone.map((e,i) => {
+                  return (
+                    <div key={i}>
+                      {e.timezone}
+                      {e.summer}
                     </div>
                   )
                 })}
@@ -104,6 +129,53 @@ export default function App() {
                           </div>
                         )
                       })}
+                    </div>
+                  )
+                })}
+                {e.independencefromGreatBritain.map((e,i) => {
+                  return (
+                    <div key={i}>
+                      {e.declaration}
+                      {e.confederation}
+                      {e.recognized}
+                      {e.constitution}
+                      {e.lastamendment}
+                    </div>
+                  )
+                })}
+                {e.area.map((e,i) => {
+                  return (
+                    <div key={i}>
+                      {e.totalarea}
+                      {e.water}
+                      {e.landarea}
+                    </div>
+                  )
+                })}
+                {e.pop.map((e,i)=> {
+                  return(
+                    <div key={i}>
+                      {e.twentytwoestimate}
+                      {e.twentycensus}
+                      {e.density}
+                    </div>
+                  )
+                })}
+                {e.gdp.map((e,i)=> {
+                  return(
+                    <div key={i}>
+                      {e.year}
+                      {e.total}
+                      {e.percapita}
+                    </div>
+                  )
+                })}
+                {e.legislature.map((e,i)=> {
+                  return(
+                    <div key={i}>
+                      {e.congress}
+                      {e.upperhouse}
+                      {e.lowerhouse}
                     </div>
                   )
                 })}
