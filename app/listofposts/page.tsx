@@ -5,9 +5,7 @@ const getPostsData = async () => {
 
 export default async function ListOfPosts() {
     const posts = await getPostsData();
-
-    console.log('Tesdddting')
-     
+     console.log('Hello')
     return (
         <div>
             <h1>Lists of Posts</h1>
